@@ -1,0 +1,8 @@
+.intro {
+  display: inline-block;
+  /* height: 100px; */
+  color: blue;
+  background-color: rgba(250, 0, 0, 0.9);
+  border-radius: 30%;
+  text-align: center;
+}
